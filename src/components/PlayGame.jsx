@@ -1,12 +1,7 @@
-import styled from "styled-components";
+import React from "react";
+
 const PlayGame = () => {
-  return <Button>This is a Button</Button>;
+  return <div>PlayGame</div>;
 };
 
 export default PlayGame;
-
-const Button = styled.button`
-  background-color: black;
-  color: white;
-  padding: 10px 20px;
-`;
