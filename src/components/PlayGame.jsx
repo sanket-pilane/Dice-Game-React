@@ -29,7 +29,9 @@ const PlayGame = () => {
     if (seletedNumber == randomNumber) {
       setScore((prev) => prev + randomNumber);
     } else {
-      setScore((prev) => prev - 2);
+      if (score != 0) {
+        setScore((prev) => prev - 2);
+      }
     }
 
     setSelectedNumber(undefined);
