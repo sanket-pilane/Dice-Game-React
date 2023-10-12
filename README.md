@@ -8,7 +8,7 @@ This is my third React project, a simple dice game that I developed as part of m
 <img src="https://github.com/sanket-pilane/Dice-Game-React/assets/140826056/107eb386-cec2-49ce-b31a-4ccc552938e3" alt="React Logo" width="500" height = "300">
 <img src="https://github.com/sanket-pilane/Dice-Game-React/assets/140826056/9bceb5d0-db24-407d-9915-77eeafadc2c6" alt="React Logo" width="500" height = "300">
 
-<img src="https://github.com/sanket-pilane/Dice-Game-React/assets/140826056/3513f0ed-8ebb-4f50-aab9-b37220bd1188" alt="React Logo" width="500" height = "300">
+<img src="https://github.com/sanket-pilane/Dice-Game-React/assets/140826056/3513f0ed-8ebb-4f50-aab9-b37220bd1188" alt="React Logo" width="500" height = "350">
 
 
 ## What I Learned
